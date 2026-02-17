@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "DANCING IN THE ROOM",
+  "base_artist": "ハンブレッダーズ",
+  "createdAt": "2026-02-17T00:27:15.443066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dancing In The Room",
+      "artist": "Humbreaders",
+      "has_synced": false,
+      "path": "select/01_Dancing_In_The_Room_Humbreaders.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DANCING IN THE ROOM",
+      "artist": "ハンブレッダーズ",
+      "has_synced": false,
+      "path": "select/pl_01_DANCING_IN_THE_ROOM_ハンブレッダーズ.txt"
+    }
+  ]
+}
